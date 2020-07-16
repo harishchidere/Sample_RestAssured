@@ -1,0 +1,57 @@
+[INFO ] 2019-11-03 17:35:28.223 [main] GenericWrappers - baseURI=https://reqres.in/
+[INFO ] 2019-11-03 17:35:28.413 [main] GenericWrappers - Method=GET
+EndPoint=api/users
+Queryparams={page=2}
+Headers=null
+[INFO ] 2019-11-03 17:35:30.034 [main] GenericWrappers - Respose is {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"}]}
+[INFO ] 2019-11-03 17:35:30.516 [main] GenericWrappers - baseURI=https://reqres.in/
+[INFO ] 2019-11-03 17:35:30.517 [main] GenericWrappers - Method=GET
+EndPoint=api/users/8
+Queryparams=null
+Headers=null
+[INFO ] 2019-11-03 17:35:30.826 [main] GenericWrappers - Respose is {"data":{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"}}
+[INFO ] 2019-11-03 17:35:30.829 [main] GenericWrappers - baseURI=https://reqres.in/
+[INFO ] 2019-11-03 17:35:30.830 [main] GenericWrappers - Method=PUT
+EndPoint=api/users
+Queryparams=null
+Headers={Content-Type=application/json}
+[INFO ] 2019-11-03 18:23:50.017 [main] GenericWrappers - baseURI=https://reqres.in/
+[INFO ] 2019-11-03 18:23:50.234 [main] GenericWrappers - Method=GET
+EndPoint=api/users
+Queryparams={page=2}
+Headers=null
+[INFO ] 2019-11-03 18:23:52.026 [main] GenericWrappers - Respose is {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"}]}
+[INFO ] 2019-11-03 18:23:52.518 [main] GenericWrappers - baseURI=https://reqres.in/
+[INFO ] 2019-11-03 18:23:52.519 [main] GenericWrappers - Method=GET
+EndPoint=api/users/8
+Queryparams=null
+Headers=null
+[INFO ] 2019-11-03 18:23:52.817 [main] GenericWrappers - Respose is {"data":{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"}}
+[INFO ] 2019-11-03 18:23:52.818 [main] GenericWrappers - baseURI=https://reqres.in/
+[INFO ] 2019-11-03 18:23:52.819 [main] GenericWrappers - Method=PUT
+EndPoint=api/users
+Queryparams=null
+Headers={Content-Type=application/json}
+[INFO ] 2019-11-03 18:30:08.706 [main] GenericWrappers - baseURI=https://reqres.in/
+[INFO ] 2019-11-03 18:30:08.929 [main] GenericWrappers - Method=GET
+EndPoint=api/users
+Queryparams={page=2}
+Headers=null
+[INFO ] 2019-11-03 18:30:10.489 [main] GenericWrappers - Respose is {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"}]}
+[INFO ] 2019-11-03 18:30:10.976 [main] GenericWrappers - baseURI=https://reqres.in/
+[INFO ] 2019-11-03 18:30:10.977 [main] GenericWrappers - Method=GET
+EndPoint=api/users/8
+Queryparams=null
+Headers=null
+[INFO ] 2019-11-03 18:30:11.673 [main] GenericWrappers - Respose is {"data":{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"}}
+[INFO ] 2019-11-03 18:30:11.675 [main] GenericWrappers - baseURI=https://reqres.in/
+[INFO ] 2019-11-03 18:30:11.676 [main] GenericWrappers - Method=PUT
+EndPoint=api/users
+Queryparams=null
+Headers={Content-Type=application/json}
+[INFO ] 2020-05-12 18:33:51.439 [main] GenericWrappers - baseURI=https://reqres.in/
+[INFO ] 2020-05-12 18:33:51.887 [main] GenericWrappers - Method=GET
+EndPoint=api/users
+Queryparams={page=2}
+Headers=null
+[INFO ] 2020-06-15 16:15:44.092 [main] GenericWrappers - baseURI=https://reqres.in/
